@@ -113,6 +113,20 @@ body{
     color: var(--group-color);
 }
 
+.or-division{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.line{
+    width: 10.8rem;
+    height: 1px;
+    background-color: var(--border-color);
+}
+
 .or{
     font-size: 1.3rem;
     padding: 2rem;
